@@ -1,7 +1,7 @@
 import React from 'react';
 import './About.css';
 import theme_pattern from '/Users/roshish/Desktop/portfolio-react/src/assets/theme_pattern.svg';
-import profile_img from '/Users/roshish/Desktop/portfolio-react/src/assets/about_profile.svg';
+import profile_img from '/Users/roshish/Desktop/portfolio-react/src/assets/about_profile.jpg';
 
 const About = () => {
   return (
