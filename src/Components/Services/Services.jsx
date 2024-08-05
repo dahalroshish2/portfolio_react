@@ -8,7 +8,7 @@ import arrow_icon from '/Users/roshish/Desktop/portfolio-react/src/assets/arrow_
 
 const Services = () => {
   return (
-    <div className='services'>
+    <div id='services' className='services'>
         <div className="services-title">
             <h1>My Services</h1>
             <img src={theme_pattern} alt='' />   
